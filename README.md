@@ -208,15 +208,11 @@ I'm especially interested in building applications that are not only functional,
 
 # `03` — THE PROJECT I'M PROUD OF
 
-## 🌍 LabourLink
+<div align="center">
 
-### *Migrant Workers Management System*
+# 🚀 Projects & Contributions
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED"/>
-
-<br>
-
-**A full-stack platform designed to connect migrant workers, job seekers, recruitment agencies and administrators through dedicated digital portals.**
+### A collection of university projects, team contributions, and things I'm building while learning.
 
 </div>
 
@@ -225,124 +221,102 @@ I'm especially interested in building applications that are not only functional,
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-## 👷
+## 🌍 LabourLink
 
-### WORKER
+**Migrant Workers Management System**
 
-Complaints
-Worker Services
-Profile Management
+A full-stack platform connecting migrant workers, job seekers, recruitment agencies and administrators.
 
-</td>
+**Tech**
 
-<td align="center" width="25%">
+`React` `Next.js` `TypeScript`
+`ASP.NET Core` `.NET 8` `MySQL` `JWT` `AWS`
 
-## 🔎
+**Focus**
 
-### JOB SEEKER
-
-Discover Jobs
-View Opportunities
-Submit Applications
-
-</td>
-
-<td align="center" width="25%">
-
-## 🏢
-
-### AGENCY
-
-Publish Jobs
-Manage Listings
-Manage Applications
+🔐 Authentication
+📋 Job Management
+📝 Applications
+⚠️ Complaints
+👥 Role-based portals
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-## 🛡️
+## 🌐 Web Development
 
-### ADMIN
+**Web Application Project**
 
-Users
-Complaints
-System Management
+A web development project where I contribute to building and improving application features while gaining practical experience with modern web technologies.
+
+**Focus**
+
+💻 Frontend Development
+🔌 API Integration
+🗄️ Database
+🐛 Debugging
+🤝 Team Collaboration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 University Learning Management System
+
+**Academic Learning Platform**
+
+A university-focused system designed to support students and academic activities through a centralized web platform.
+
+**Focus**
+
+👨‍🎓 Student Features
+📚 Learning Resources
+📋 Academic Management
+🌐 Web Application
+🤝 Team Development
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Library Login System
+
+**UI Design & Usability Project**
+
+A user interface design project focused on creating a simple and user-friendly library login experience.
+
+**Tools**
+
+`Figma`
+
+**Focus**
+
+🎨 UI Design
+🧩 User Experience
+📱 Interface Design
+🔍 Usability
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-### 🏗️ Architecture
-
-```text
-                    ┌────────────────────────┐
-                    │       FRONTEND         │
-                    │                        │
-                    │ React • Next.js        │
-                    │ TypeScript • Tailwind  │
-                    └────────────┬───────────┘
-                                 │
-                                 │ REST API
-                                 ▼
-                    ┌────────────────────────┐
-                    │        BACKEND         │
-                    │                        │
-                    │ ASP.NET Core 8         │
-                    │ Entity Framework Core  │
-                    │ JWT Authentication     │
-                    └────────────┬───────────┘
-                                 │
-                                 ▼
-                    ┌────────────────────────┐
-                    │        DATABASE        │
-                    │                        │
-                    │        MySQL           │
-                    └────────────┬───────────┘
-                                 │
-                                 ▼
-                    ┌────────────────────────┐
-                    │         CLOUD          │
-                    │                        │
-                    │          AWS           │
-                    └────────────────────────┘
-```
-
-<details>
-<summary><b>🔍 Explore the project</b></summary>
-
-<br>
-
-### 🔐 Authentication
-
-JWT-based authentication with role-based access.
-
-### 📋 Job Management
-
-Agencies can publish and manage job opportunities.
-
-### 📝 Applications
-
-Job seekers can discover opportunities and submit applications.
-
-### ⚠️ Complaints
-
-Workers can submit complaints through the dedicated worker portal.
-
-### 👥 Multiple Portals
-
-The system separates functionality based on user roles:
-
-`Worker` · `Job Seeker` · `Agency` · `Admin`
-
-</details>
-
 ---
+
+<div align="center">
+
+### 💡 From university assignments to real-world applications
+
+**Learn → Build → Test → Improve**
+
+</div>
 
 <div align="center">
 
