@@ -31,42 +31,22 @@
 
 ## 👩‍💻 About Me
 
-```yaml
-name: I.F. Nishta
+Hi! I'm **I.F. Nishta**, a Software Engineering undergraduate at
+**Sabaragamuwa University of Sri Lanka**.
 
-education:
-  - Software Engineering Undergraduate
-  - Sabaragamuwa University of Sri Lanka
+I'm passionate about **Full-Stack Development, Artificial Intelligence,
+and Machine Learning**, and I enjoy turning ideas into practical
+real-world applications.
 
-role:
-  - Software Engineering Undergraduate
-  - Aspiring AI/ML Engineer
-  - Full-Stack Developer
+### Currently Focusing On
 
-focus:
-  - Software Engineering
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
+- 💻 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Cloud Technologies
+- 🧪 Software Testing
+- 🚀 Building Real-World Projects
 
-currently_learning:
-  - MERN Stack
-  - AI & Machine Learning
-  - Cloud Technologies
-  - Software Testing
-
-mindset:
-  Learn → Build → Share → Improve
-````
-
-I am a Software Engineering undergraduate passionate about building
-practical software solutions and exploring modern technologies.
-
-My current interests are Full-Stack Development, Artificial Intelligence,
-Machine Learning, Cloud Technologies, and Software Engineering.
-
-I enjoy learning through real-world projects and continuously improving
-my technical and problem-solving skills.
+> **Learn → Build → Share → Improve**
 
 ---
 
@@ -96,13 +76,11 @@ my technical and problem-solving skills.
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Testing, Tools & Cloud
+### Tools, Testing & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,firebase"/>
 </p>
-
-**Testing:**
 
 `Playwright`
 
@@ -112,23 +90,23 @@ my technical and problem-solving skills.
 
 ### LabourLink — Migrant Workers Management System
 
-A full-stack web-based Migrant Workers Management System developed to
-connect and support migrant workers, job seekers, recruitment agencies,
-and administrators through dedicated portals.
+**LabourLink** is a full-stack web-based system designed to support
+migrant workers, job seekers, recruitment agencies, and administrators
+through dedicated portals.
 
-#### Key Features
+### Key Features
 
-* 👷 Worker Portal
-* 🔎 Job Seeker Portal
-* 🏢 Agency Portal
-* 🛡️ Admin Portal
-* 📋 Job Management
-* 📝 Job Applications
-* ⚠️ Worker Complaints
-* 🔐 Authentication & Authorization
-* 🌐 REST API Integration
+- 👷 Worker Portal
+- 🔎 Job Seeker Portal
+- 🏢 Agency Portal
+- 🛡️ Admin Portal
+- 📋 Job Management
+- 📝 Job Applications
+- ⚠️ Worker Complaints
+- 🔐 Authentication & Authorization
+- 🌐 REST API Integration
 
-#### Technology Stack
+### Technology Stack
 
 `React.js` `Next.js` `TypeScript` `Tailwind CSS`
 
@@ -138,12 +116,12 @@ and administrators through dedicated portals.
 
 ---
 
-## 📚 My Learning Journey
+## 📚 Learning Journey
 
 ```text
 Software Engineering
         ↓
-Programming Fundamentals
+Programming
         ↓
 Web Development
         ↓
@@ -158,7 +136,7 @@ Cloud & Deployment
 Real-World Projects
         ↓
 Professional Growth
-```
+````
 
 ### Currently Exploring
 
@@ -175,28 +153,30 @@ Professional Growth
 
 ## 🎯 Current Focus
 
-```yaml
-learning:
-  - MERN Stack
-  - Artificial Intelligence
-  - Machine Learning
-  - Cloud Technologies
+**Learning**
 
-building:
-  - Full-Stack Web Applications
-  - Real-World Software Projects
+* MERN Stack
+* Artificial Intelligence
+* Machine Learning
+* Cloud Technologies
 
-exploring:
-  - AI-powered Applications
-  - Modern Web Technologies
-  - Cloud Deployment
-  - Software Testing
+**Building**
 
-career_goal:
-  - Software Engineer
-  - Full-Stack Developer
-  - AI/ML Engineer
-```
+* Full-Stack Web Applications
+* Real-World Software Projects
+
+**Exploring**
+
+* AI-powered Applications
+* Modern Web Technologies
+* Cloud Deployment
+* Software Testing
+
+**Career Goals**
+
+* Software Engineer
+* Full-Stack Developer
+* AI/ML Engineer
 
 ---
 
@@ -204,10 +184,11 @@ career_goal:
 
 > Learn → Build → Share → Improve
 
-I believe that the best way to learn technology is by building.
+I believe the best way to learn technology is by building real
+projects, solving problems, and continuously improving.
 
-Every project gives me an opportunity to learn something new, solve
-problems, experiment with technologies, and become a better developer.
+Every project is an opportunity to learn something new and become
+a better developer.
 
 ---
 
@@ -216,9 +197,7 @@ problems, experiment with technologies, and become a better developer.
 <div align="center">
 
 <a href="https://github.com/iroonfathimanistha">
-
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <br/><br/>
@@ -264,8 +243,4 @@ problems, experiment with technologies, and become a better developer.
 </div>
 ```
 
-### One important check
-
-I used `https://www.linkedin.com/in/fathimanistha/` based on the LinkedIn username you gave. If your actual LinkedIn profile has a **different URL**, replace that one URL in the README.
-
-Also, I intentionally **didn't add fake projects** like Flutter/Firebase or Flask just to fill space. Your profile will look much stronger if it shows technologies and projects you can actually explain in an internship interview.
+This version is the one I'd use for your **GitHub profile**: clean, internship-friendly, and centered around the direction you're actually pursuing.
